@@ -75,3 +75,7 @@ end
 if tonumber(Player.UserId) == 40109342 then
     while true do end
 end
+
+if tonumber(Player.UserId) == 437506441 then
+    while true do end
+end
